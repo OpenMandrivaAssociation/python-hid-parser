@@ -4,7 +4,7 @@
 
 Name:		python-hid-parser
 Version:	0.1.0
-Release:	1
+Release:	2
 Summary:	Typed pure Python library to parse HID report descriptors
 URL:		https://github.com/usb-tools/python-hid-parser
 License:	MIT
